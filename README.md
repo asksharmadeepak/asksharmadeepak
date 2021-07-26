@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Deepak , Programmwe who followed programming langauges Java , Scala and go @java-scala-go
+- 👋 Hi, I’m Deepak , Programmer who followed programming languages Java , Scala and go @java-scala-go
 - 👀 I’m interested in ...Building Quality Software
 - 🌱 I’m currently learning ... GoLang / RUST / GraphQL
 - 💞️ I’m looking to collaborate on ...GoLang
